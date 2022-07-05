@@ -1,0 +1,4 @@
+INFLUX_HOST="http://hostname:8086"
+INFLUX_TOKEN="influxdb-token"
+INFLUX_ORG="org-name"
+INFLUX_BUCKET="bucket-name"
